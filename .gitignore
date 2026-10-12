@@ -1,3 +1,5 @@
-/node_modules
-.env
+node_modules/
+.env*
+!.env.example
 src/assets/discords.json
+*.local.md
