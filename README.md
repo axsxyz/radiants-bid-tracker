@@ -87,7 +87,7 @@ Requirements: Node.js, a Discord bot token and a Helius API key.
 
 ## Credits
 
-- [gabrielhicks](https://github.com/gabrielhicks) (Radiants DAO) wrote the high-bid websocket tracker and the updated program IDL, merged via pull request #1, and the floor-price lookup from the oracle accounts, first written on the Radiants-DAO fork (`eca79a8`, `1146203`) and integrated here in `59f7dc6`.
+- [gabrielhicks](https://github.com/gabrielhicks) (Radiants DAO) wrote the high-bid websocket tracker and the updated program IDL, merged via pull request #1, and the floor-price lookup from the oracle accounts, first written on the Radiants-DAO fork (`eca79a8`, `1146203`) and integrated here in `a101b7b`.
 - ANSEL ([anselsol](https://github.com/anselsol)) contributed the IDL-based instruction deserializer.
 - [axsxyz](https://github.com/axsxyz) wrote the original bot (bid and auction notifiers, multi-server channel config, NFT image lookup) and integrated the floor-price support.
 - The project was forked and extended by the [Radiants-DAO](https://github.com/Radiants-DAO) GitHub organisation.
